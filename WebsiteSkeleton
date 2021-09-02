@@ -1,1 +1,16 @@
-YO?
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="AlterVista - Editor HTML"/>
+  <!---1. Add your title here---><title>Fun-e</title>
+</head>
+<body style="background-color: /*2. Add your background color here*/#2291F1;text-align: center;";>
+
+  <h1 style="background-color: white;font-size: 50px;";><!---3. Add your header here--->Fun-e
+  <a href="../index2130.html"><!---4. Add a square picture here---><img src="lol_emoji.jfif" alt="Laughing Face" width="100" height="100"></a></h1>
+  <p style="font-size: 22px;";><!---5. Time to type or add your content here--->
+  Welcome to my Fun-e page! This is a funny website that's phony. I made it just to explore fun aspects of html.</p><br/>
+  Want to explore more? <a href="../index2130.html">Here's an example another student did.</a>
+</body>
+</html>
