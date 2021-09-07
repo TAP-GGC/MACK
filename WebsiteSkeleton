@@ -1,16 +1,211 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="utf-8">
-  <meta name="generator" content="AlterVista - Editor HTML"/>
-  <!---1. Add your title here---><title>Fun-e</title>
-</head>
-<body style="background-color: /*2. Add your background color here*/#2291F1;text-align: center;";>
+	<title>Portfolio</title>
+	<!-- css files -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.3.1/css/bulma.min.css">
+	<style>
+      html, body{
+        font-size:16px;
+        color: #dfdfdf;
+        background-color: #063647; 
+      }
 
-  <h1 style="background-color: white;font-size: 50px;";><!---3. Add your header here--->Fun-e
-  <a href="../index2130.html"><!---4. Add a square picture here---><img src="lol_emoji.jfif" alt="Laughing Face" width="100" height="100"></a></h1>
-  <p style="font-size: 22px;";><!---5. Time to type or add your content here--->
-  Welcome to my Fun-e page! This is a funny website that's phony. I made it just to explore fun aspects of html.</p><br/>
-  Want to explore more? <a href="../index2130.html">Here's an example another student did.</a>
-</body>
+      a {color: #00d1b2;}
+      a:hover {color: #00d1b2;}
+
+      section{
+          padding-top: 3rem;
+          padding-bottom: 3rem;
+      }
+
+      .section-1 {background: #063647;}
+      .section-2 {background-color: #052D3D;}
+      .section-3 {background-color: #0E282E;}
+      
+      a.nav-item {color: #dfdfdf;}
+      a.nav-item:hover {color: #fff;}
+
+      .avatar{
+          height:200px;
+          border-radius: 50%;
+      }
+
+      .intro-description{
+          padding-top: 1rem;
+      }
+
+      .social-container img{
+          max-width:100%;
+          max-height:175px;
+          margin-bottom:15px;
+      }
+
+      .project-figure {
+          margin: 0 auto 1rem auto;
+          max-height: 256px;
+          max-width: 256px;
+      }
+
+      .project-text {text-align: justify;}
+
+      .box {
+          background-color: transparent;
+          border: 2px solid rgba(7, 59, 79, 0.5);
+      }
+
+      .title {
+          color: #fff;
+          text-align: left;
+          margin-bottom: 2rem;
+      }
+
+      .intro {
+          text-align: justify;
+          width: 80%;
+          margin: 0 auto;
+      }
+
+      .void-background {
+          background-color: transparent; 
+      }
+
+      @media screen and (max-width: 768px) {
+          .nav-menu {background-color: #063647;}
+          .nav-toggle:hover {background-color: transparent;}
+          .nav-toggle span {background-color: #dfdfdf;}
+          .nav-toggle span:hover {background-color: #fff;}
+      }
+    </style>
+	<link rel="icon" type="image/x-icon" href="assets/img/favicon.png">
+	<meta name="author" content="Hassan Ali">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+	<body>
+		<!-- Navbar -->
+		<nav class="nav container void-background">
+			<!-- This "nav-menu" is hidden on mobile -->
+			<!-- Add the modifier "is-active" to display it on mobile -->
+			<div class="nav-left">
+				<a href="http://instagram.com/" class="nav-item">
+					<span class="icon">
+						<i class="fa fa-instagram"></i>
+					</span>
+				</a>
+				<a href="http://facebook.com/" class="nav-item">
+					<span class="icon">
+						<i class="fa fa-facebook"></i>
+					</span>
+				</a>
+				<a href="https://twitter.com/" class="nav-item">
+					<span class="icon">
+						<i class="fa fa-twitter"></i>
+					</span>
+				</a>				
+			</div>
+
+			<div class="nav-right nav-menu">
+				<a class="nav-item" href="#about">About</a>
+				<a class="nav-item" href="#projects">Projects</a>
+				<a class="nav-item" href="#social">Social</a>
+			</div>
+
+			<!-- This "nav-toggle" hamburger menu is only visible on mobile -->
+			<!-- You need JavaScript to toggle the "is-active" class on "nav-menu" -->
+			<span class="nav-toggle">
+				<span></span>
+				<span></span>
+				<span></span>
+			</span>
+		</nav>
+				
+		<!-- About Me -->
+		<section id="about" class="section section-1">
+			<div class="container has-text-centered">
+				<!-- Source: https://flic.kr/p/pAZBNK -->
+				<img class="avatar" src="https://thumbs.dreamstime.com/b/vector-icon-user-avatar-web-site-mobile-app-man-face-flat-style-social-network-profile-45837377.jpg">
+			</div>
+			<div class="container"><br/>
+				<p class="intro">
+					Lorem Khaled Ipsum is a major key to success. To succeed you must believe. When you believe, you will succeed. Mogul talk. Find peace, life is like a water fall, you’ve gotta flow. Lion! Fan luv. Eliptical talk.
+				</p>
+			</div>
+		</section>
+		
+		<!-- Projects -->
+		<section  id="projects" class="section section-2">
+			<div class="container">
+				<div class="has-text-centered">
+					<h3 class="title is-3">Projects</h3>
+				</div>
+				
+				<div class="columns is-multiline is-desktop">
+					<!-- Project 1 -->
+					<div class="column">
+						<div class="box project-text">
+							<article>
+								<div>
+									<figure class="image project-figure">
+										<img src="https://www.projectmanager.com/wp-content/uploads/2019/08/190826_Blog_Feature_Project_Sponsor.jpg" alt="Image">
+									</figure>
+								</div>
+								<div>			
+									<p>
+										They don’t want us to eat. I told you all this before, when you have a swimming pool, do not use chlorine, use salt water, the healing, salt water is the healing.
+									</p>
+								</div>
+							</article>
+						</div>
+					</div>
+					<!-- Project 2 -->
+					<div class="column">
+						<div class="box project-text">
+							<article>
+								<div>
+									<figure class="image project-figure">
+										<img src="https://th.bing.com/th/id/R.60aa59e939dab4cf5f8758821acf19f3?rik=iUh46gYrB1DMtw&riu=http%3a%2f%2fwww.sehinc.com%2fsites%2fdefault%2ffiles%2fimage--preview--square%2fnews%2fHeader-Project_Delivery_900x500_TH.gif&ehk=ChVm9Y6f%2bTAtBV9lvU5AhZnBn173aPiGRE5dbTxejxk%3d&risl=&pid=ImgRaw&r=0" alt="Image">
+									</figure>
+								</div>
+								<div>			
+									<p>
+										Bless up. Another one. How’s business? Boomin. Don’t ever play yourself. Life is what you make it, so let’s make it.
+									</p>
+								</div>
+							</article>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- Quote -->
+		<section id="social" class="section section-3">
+			<div class="container">
+  				<div class="quote-box">
+    				<p id="quote">"Quote goes here..."</p>
+    				<small id="author">- Author</small>
+  				</div>
+			</div>
+		</section>	
+		
+		<!-- Scripts  -->
+		<script src="controller.js"></script>
+        <script>
+          const quote = document.querySelector("#quote");
+          const author = document.querySelector("#author");
+          const btn = document.querySelector("#btn");
+
+          window.onload = getQuote;
+          
+           function getQuote() {
+            fetch("http://quotable.io/random")
+              .then(res => res.json())
+              .then(data => {
+              quote.innerHTML = `"${data.content}"`;
+              author.innerHTML = data.author;
+            })
+          }
+    	</script>
+	</body>	
 </html>
