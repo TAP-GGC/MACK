@@ -1,76 +1,32 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Portfolio</title>
+	<title>Example</title> <!---Step 1: Create a title--->
 	<!-- css files -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.3.1/css/bulma.min.css">
 	<style>
-      html, body{
-        font-size:16px;
-        color: #dfdfdf;
-        background-color: #063647; 
-      }
+      html, body{font-size:16px;color: #dfdfdf;background-color: black; /*Optional Step: Change Tab Color*/}
 
+      /*Step 2: Change the color of these sections*/
+      .section-1 {background: #0a5975;}
+      .section-2 {background-color: #08465e;}
+      .section-3 {background-color: #18444e;}
+      
+      /*Don't Touch- Scroll to About*/
       a {color: #00d1b2;}
       a:hover {color: #00d1b2;}
-
-      section{
-          padding-top: 3rem;
-          padding-bottom: 3rem;
-      }
-
-      .section-1 {background: #063647;}
-      .section-2 {background-color: #052D3D;}
-      .section-3 {background-color: #0E282E;}
-      
+      section{padding-top: 3rem;padding-bottom: 3rem;}
       a.nav-item {color: #dfdfdf;}
       a.nav-item:hover {color: #fff;}
-
-      .avatar{
-          height:200px;
-          border-radius: 50%;
-      }
-
-      .intro-description{
-          padding-top: 1rem;
-      }
-
-      .social-container img{
-          max-width:100%;
-          max-height:175px;
-          margin-bottom:15px;
-      }
-
-      .project-figure {
-          margin: 0 auto 1rem auto;
-          max-height: 256px;
-          max-width: 256px;
-      }
-
+      .avatar{height:200px;border-radius: 50%;}
+      .intro-description{padding-top: 1rem;}
       .project-text {text-align: justify;}
-
-      .box {
-          background-color: transparent;
-          border: 2px solid rgba(7, 59, 79, 0.5);
-      }
-
-      .title {
-          color: #fff;
-          text-align: left;
-          margin-bottom: 2rem;
-      }
-
-      .intro {
-          text-align: justify;
-          width: 80%;
-          margin: 0 auto;
-      }
-
-      .void-background {
-          background-color: transparent; 
-      }
-
+      .box {background-color: transparent;border: 2px solid rgba(7, 59, 79, 0.5);}
+      .title {color: #fff;text-align: center;margin-bottom: 2rem;}
+      .intro {text-align: justify;width: 80%;margin: 0 auto;}
+      .void-background {background-color: transparent; }
+      .quote-box {text-align: center;}
       @media screen and (max-width: 768px) {
           .nav-menu {background-color: #063647;}
           .nav-toggle:hover {background-color: transparent;}
@@ -83,36 +39,20 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 	<body>
-		<!-- Navbar -->
+		<!-- Navbar. KEEP SCROLLING :)-->
 		<nav class="nav container void-background">
-			<!-- This "nav-menu" is hidden on mobile -->
-			<!-- Add the modifier "is-active" to display it on mobile -->
 			<div class="nav-left">
-				<a href="http://instagram.com/" class="nav-item">
-					<span class="icon">
-						<i class="fa fa-instagram"></i>
-					</span>
-				</a>
-				<a href="http://facebook.com/" class="nav-item">
-					<span class="icon">
-						<i class="fa fa-facebook"></i>
-					</span>
-				</a>
-				<a href="https://twitter.com/" class="nav-item">
-					<span class="icon">
-						<i class="fa fa-twitter"></i>
-					</span>
-				</a>				
+				<a href="http://instagram.com/" class="nav-item"><span class="icon"><i class="fa fa-instagram"></i></span></a>
+				<a href="http://facebook.com/" class="nav-item"><span class="icon"><i class="fa fa-facebook"></i></span></a>
+				<a href="https://twitter.com/" class="nav-item"><span class="icon"><i class="fa fa-twitter"></i></span></a>				
 			</div>
 
 			<div class="nav-right nav-menu">
 				<a class="nav-item" href="#about">About</a>
-				<a class="nav-item" href="#projects">Projects</a>
-				<a class="nav-item" href="#social">Social</a>
+				<a class="nav-item" href="#projects">Quote</a>
+				<a class="nav-item" href="#social">Content</a>
 			</div>
 
-			<!-- This "nav-toggle" hamburger menu is only visible on mobile -->
-			<!-- You need JavaScript to toggle the "is-active" class on "nav-menu" -->
 			<span class="nav-toggle">
 				<span></span>
 				<span></span>
@@ -123,65 +63,25 @@
 		<!-- About Me -->
 		<section id="about" class="section section-1">
 			<div class="container has-text-centered">
-				<!-- Source: https://flic.kr/p/pAZBNK -->
+            <div class="has-text-centered">
+					<h3 class="title is-3">About Me</h3>
+				</div>
+                <!---Step 3: Add an image by src--->
 				<img class="avatar" src="https://thumbs.dreamstime.com/b/vector-icon-user-avatar-web-site-mobile-app-man-face-flat-style-social-network-profile-45837377.jpg">
 			</div>
 			<div class="container"><br/>
 				<p class="intro">
-					Lorem Khaled Ipsum is a major key to success. To succeed you must believe. When you believe, you will succeed. Mogul talk. Find peace, life is like a water fall, you’ve gotta flow. Lion! Fan luv. Eliptical talk.
+					Step 4: Add information about you here! You can delete this and add anything you want about you. (i.e. hobbies, favorite color, etc.)
 				</p>
 			</div>
 		</section>
-		
-		<!-- Projects -->
-		<section  id="projects" class="section section-2">
+        
+      <!-- Quote -->
+		<section id="social" class="section section-2">
 			<div class="container">
-				<div class="has-text-centered">
-					<h3 class="title is-3">Projects</h3>
+            	<div class="has-text-centered">
+					<h3 class="title is-3">Quote of the Day</h3>
 				</div>
-				
-				<div class="columns is-multiline is-desktop">
-					<!-- Project 1 -->
-					<div class="column">
-						<div class="box project-text">
-							<article>
-								<div>
-									<figure class="image project-figure">
-										<img src="https://www.projectmanager.com/wp-content/uploads/2019/08/190826_Blog_Feature_Project_Sponsor.jpg" alt="Image">
-									</figure>
-								</div>
-								<div>			
-									<p>
-										They don’t want us to eat. I told you all this before, when you have a swimming pool, do not use chlorine, use salt water, the healing, salt water is the healing.
-									</p>
-								</div>
-							</article>
-						</div>
-					</div>
-					<!-- Project 2 -->
-					<div class="column">
-						<div class="box project-text">
-							<article>
-								<div>
-									<figure class="image project-figure">
-										<img src="https://th.bing.com/th/id/R.60aa59e939dab4cf5f8758821acf19f3?rik=iUh46gYrB1DMtw&riu=http%3a%2f%2fwww.sehinc.com%2fsites%2fdefault%2ffiles%2fimage--preview--square%2fnews%2fHeader-Project_Delivery_900x500_TH.gif&ehk=ChVm9Y6f%2bTAtBV9lvU5AhZnBn173aPiGRE5dbTxejxk%3d&risl=&pid=ImgRaw&r=0" alt="Image">
-									</figure>
-								</div>
-								<div>			
-									<p>
-										Bless up. Another one. How’s business? Boomin. Don’t ever play yourself. Life is what you make it, so let’s make it.
-									</p>
-								</div>
-							</article>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-
-		<!-- Quote -->
-		<section id="social" class="section section-3">
-			<div class="container">
   				<div class="quote-box">
     				<p id="quote">"Quote goes here..."</p>
     				<small id="author">- Author</small>
@@ -189,13 +89,23 @@
 			</div>
 		</section>	
 		
-		<!-- Scripts  -->
+		<!-- Content -->
+		<section  id="projects" class="section section-3">
+			<div class="container">
+				<div class="has-text-centered">
+					<h3 class="title is-3">Content</h3>
+				</div>
+                <p class="intro">
+					Step 5: Add your content here. Whatever you want, just have fun! :)
+				</p>
+			</div>
+		</section>
+		
+		<!-- Scripts (Javascript for Quotes) -->
 		<script src="controller.js"></script>
         <script>
           const quote = document.querySelector("#quote");
           const author = document.querySelector("#author");
-          const btn = document.querySelector("#btn");
-
           window.onload = getQuote;
           
            function getQuote() {
