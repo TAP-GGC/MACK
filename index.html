@@ -2,42 +2,40 @@
 <html>
 <head>
 	<title>Example</title> <!---Step 1: Create a title--->
-    <!--Online CSS files for styling the page-->
+    	<!--Online CSS files for styling the page-->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.3.1/css/bulma.min.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<style>
-      html, body{font-size:16px;color: #ffffff;background-color: black; /*Optional Step: Change top tab color*/}
+		html, body{font-size:16px;color: #ffffff;background-color: black; /*Optional Step: Change top tab color*/}
 
-      /*Step 2: Change the color of these sections*/
-      .section-1 {background: #0a5975;}
-      .section-2 {background-color: #08465e;}
-      .section-3 {background-color: #18444e;}
-      
-      /*Don't Touch Please - Scroll to About*/
-      a {color: blue;}
-      section{padding-top: 3rem;padding-bottom: 3rem;}
-      a.nav-item {color: #dfdfdf;}
-      a.nav-item:hover {color: #fff;}
-      .avatar{height:200px;border-radius: 50%;}
-      .intro-description{padding-top: 1rem;}
-      .box {background-color: transparent;border: 2px solid rgba(7, 59, 79, 0.5);}
-      .title {color: #fff;text-align: center;margin-bottom: 2rem;}
-      .intro {text-align: center;width: 80%;margin: 0 auto;}
-      .void-background {background-color: transparent; }
-      .quote-box {text-align: center;}
-      @media screen and (max-width: 768px) {.nav-menu {background-color: #063647;}}
-    </style>
+		/*Step 2: Change the color of these sections*/
+		.section-1 {background: #0a5975;}
+		.section-2 {background-color: #08465e;}
+		.section-3 {background-color: #18444e;}
+
+		/*Don't Touch Please - Scroll to About*/
+		a {color: blue;}
+		section{padding-top: 3rem;padding-bottom: 3rem;}
+		a.nav-item {color: #dfdfdf;}
+		a.nav-item:hover {color: #fff;}
+		.avatar{height:200px;border-radius: 50%;}
+		.intro-description{padding-top: 1rem;}
+		.box {background-color: transparent;border: 2px solid rgba(7, 59, 79, 0.5);}
+		.title {color: #fff;text-align: center;margin-bottom: 2rem;}
+		.intro {text-align: center;width: 80%;margin: 0 auto;}
+		.void-background {background-color: transparent; }
+		.quote-box {text-align: center;}
+		 @media screen and (max-width: 768px) {.nav-menu {background-color: #063647;}}
+    	</style>
 </head>
 	<body>
 		<!-- Navbar. KEEP SCROLLING :) -->
-		<nav class="nav container void-background">
-			<div class="nav-center">
+		<nav class="nav container void-background"><div class="nav-center">
 				<a href="http://instagram.com/" class="nav-item"><span class="icon"><i class="fa fa-instagram"></i></span></a>
 				<a href="http://facebook.com/" class="nav-item"><span class="icon"><i class="fa fa-facebook"></i></span></a>
 				<a href="https://twitter.com/" class="nav-item"><span class="icon"><i class="fa fa-twitter"></i></span></a>				
-			</div>
-		</nav>
+		</div></nav>
 				
 		<!-- About Me -->
 		<section id="about" class="section section-1">
@@ -49,7 +47,7 @@
 			</p>
 		</section>
         
-      <!-- Quote -->
+      		<!-- Quote -->
 		<section id="quotes" class="section section-2">
             	<h3 class="title is-3">Quote of the Day</h3>
   				<div class="quote-box"><p id="quote">"Quote goes here..."</p><small id="author">- Author</small></div>
@@ -57,25 +55,25 @@
 		
 		<!-- Content -->
 		<section  id="contents" class="section section-3">
-			<h3 class="title is-3">Content</h3>
-                <p class="intro">
+		<h3 class="title is-3">Content</h3>
+                	<p class="intro">
 					Step 5: Add your content here. Whatever you want, just have fun! :)
-				</p>
+			</p>
 		</section>
 		
 		<!-- Scripts (Javascript for Quote Generator in Section 2) -->
-        <script>
-          const quote = document.querySelector("#quote");
-          const author = document.querySelector("#author");
-          window.onload = getQuote;
-           function getQuote() {
-            fetch("https://quotable.io/random")
-              .then(res => res.json())
-              .then(data => {
-              quote.innerHTML = `"${data.content}"`;
-              author.innerHTML = data.author;
-            })
-          }
-    	</script>
+        	<script>
+          	const quote = document.querySelector("#quote");
+          	const author = document.querySelector("#author");
+          	window.onload = getQuote;
+           	function getQuote() {
+            		fetch("https://quotable.io/random")
+              		.then(res => res.json())
+              		.then(data => {
+              		quote.innerHTML = `"${data.content}"`;
+              		author.innerHTML = data.author;
+            		})
+          	}
+    		</script>
 	</body>	
 </html>
