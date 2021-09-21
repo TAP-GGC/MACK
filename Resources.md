@@ -3,6 +3,6 @@
 ## Easy:<br/>
 [Paragraphs](link)
 ## Medium:<br/>
-[HTML Tables](https://www.w3schools.com/tags/tag_table.asp)<br/>
+[Tables](https://www.w3schools.com/tags/tag_table.asp)<br/>
 ## Difficult:
 [Embeds](link)
