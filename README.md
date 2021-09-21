@@ -10,10 +10,10 @@ Go to settings->options->github pages->branch=main->folder=root->save.<br/>
 [Student Example](http://cwaller.altervista.org/TAP/Student1.html)
 
 ## Team:
-1.Mofhez Rahman
-2.Ayesha Syeda
-3.Carri Waller
-4.Keyvan Shabani
+1. Mofhez Rahman
+2. Ayesha Syeda
+3. Carri Waller
+4. Keyvan Shabani
 
 ![Team MACK](/path/to/the/screenshot.png)
 
