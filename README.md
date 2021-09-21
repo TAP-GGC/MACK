@@ -1,7 +1,7 @@
 # MACK Pages
 ## Description:
 
-### Click here for the [Inital Website](https://techambassadors-ggc.github.io/MACK/)
+### Click here for the [Inital Website](https://techambassadors-ggc.github.io/MACK/code/index.html)
 
 This is a 5-step design your own cover page website. It can be an easy way to tell people about you.
 Copy (fork) your own index.html page and then make the 5 edits in the code where the comments are.<br/>
