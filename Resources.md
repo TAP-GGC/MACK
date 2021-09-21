@@ -1,4 +1,4 @@
-# Links for content
+# Links for Content Ideas
 [Color Picker for Hex Codes](https://www.w3schools.com/colors/colors_picker.asp)<br/>
 ## Easy:<br/>
 ## Medium:<br/>
