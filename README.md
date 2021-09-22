@@ -1,6 +1,6 @@
 # MACK Pages
 ## Description:
-
+can someone write this? @ayesha?
 ### Click here for the [Inital Website](https://techambassadors-ggc.github.io/MACK/code/index.html)
 
 This is a 5-step design your own cover page website. It can be an easy way to tell people about you.
@@ -19,7 +19,7 @@ Go to settings->options->github pages->branch=main->folder=root->save.<br/>
 
 Professors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
 
-## Publications:
+## Publications:anythng here and below needs to be done @mofhez & keyvan...
 
 ## Outreach Activites:
 
