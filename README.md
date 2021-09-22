@@ -15,7 +15,7 @@ Professors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
 1. CCSC abstract 
 2. CREATE Symposium Poster, DATE, GGC.
 ## Outreach Activites:
-1. Super Saturday Series (S3), DATE, GGC – middle and high school girls to promote IT andSTEM career
+1. Super Saturday Series (S3), DATE, GGC – middle and high school girls to promote IT and STEM career
 2. Tap Expo, DATES, GGC – To promote IT field and the TAP program to college students
 3. Class Workshops – on DATE 3 occasions, to promote IT field to non-IT college students
 ## Technology:
