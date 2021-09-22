@@ -11,7 +11,7 @@
 * **K**eyvan Shabani<br/>
 ![Team Photo](/media/MACK.png)<br/>
 Professors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
-## Publications:*anythng here and below needs to be done @mofhez & keyvan...*
+## Publications:*everything below needs to be edited @mofhez & keyvan...*
 1. CCSC abstract 
 2. CREATE Symposium Poster, DATE, GGC.
 ## Outreach Activites:
