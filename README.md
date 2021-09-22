@@ -15,7 +15,7 @@ Go to settings->options->github pages->branch=main->folder=root->save.<br/>
 * **C**arri Waller
 * **K**eyvan Shabani
 
-![Team MACK](/path/to/the/screenshot.png)
+![Team MACK](/media/MACK.png)
 
 Professors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
 
