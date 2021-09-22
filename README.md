@@ -8,8 +8,8 @@
 * **M**ofhez Rahman
 * **A**yesha Syeda
 * **C**arri Waller
-* **K**eyvan Shabani
-![Team Photo](/media/MACK.png)
+* **K**eyvan Shabani<br/>
+![Team Photo](/media/MACK.png)<br/>
 Professors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
 ## Publications:*anythng here and below needs to be done @mofhez & keyvan...*
 1. CCSC abstract 
