@@ -5,13 +5,13 @@
 2. Include one sentence about the TAP program and give link to GGC Tap website
 3. Video of project demo run-through (link to the one in the media/ folder)
 ## Team:
-* **M**ofhez Rahman
+* **M**ohfez Rahman
 * **A**yesha Syeda
 * **C**arri Waller
 * **K**eyvan Shabani<br/>
 ![Team Photo](/media/MACK.png)<br/>
 Professors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
-## Publications:*everything below needs to be edited @mofhez & keyvan...*
+## Publications:*everything below needs to be edited @mohfez & keyvan...*
 1. CCSC abstract 
 2. CREATE Symposium Poster, DATE, GGC.
 ## Outreach Activites:
