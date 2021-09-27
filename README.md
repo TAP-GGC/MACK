@@ -1,6 +1,6 @@
 # MACK Pages
 ## Description:
-Our project is a simple all-about-you page that can be customized with your choices.And, your website can be obtained with a QR code or NFC chip to share to others. The technologies we are planning to use are QR codes and NFCs. We also have used an API to generate quotes with every page refresh. The target of this project is for users to get introduced to QR code, NFCs, usage of API, and utilize HTML/CSS.
+Our project is a simple all-about-you page that can be customized with your choices. Your personalized website can be obtained with a QR code or NFC chip to share to others. The technologies we are planning to use are QR codes and NFCs. We also have used an API to generate quotes with every page refresh. The target of this project is for users to get introduced to QR code, NFCs, usage of API, and utilize HTML/CSS.
 ## What is TAP?
 Technology Ambassoder Program here at GGC allows us to build projects using different technologies that have a target to teach!
 Link for TAP at GGC: https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/
