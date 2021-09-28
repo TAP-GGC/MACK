@@ -9,4 +9,4 @@
 [Lists](https://www.w3schools.com/html/html_lists.asp)<br/>
 ## Difficult:
 [Embeds - no link yet](link)<br/>
-[APIs - no link yet](link)
+[API for random recipe generator](https://codepen.io/medda/pen/ZEEzXKj)
