@@ -1,5 +1,6 @@
-Title: MACK Pages: A Personalized About Me Webpage Presenter(s): Ayesha, Keyvan, Mohfez, and Carri
-Faculty Advisors: Cengiz Gunay, Rahaf Barakat 
+Title: MACK Pages: A Personalized About Me Webpage <br/>
+__Presenter(s): Ayesha, Keyvan, Mohfez, and Carri<br/>__
+Faculty Advisors: Cengiz Gunay, Rahaf Barakat <br/>
 Abstract: Mack Pages is an all-about me website created by Georgia Gwinnett College (GGC) 
 Information Technology students Mohfez Rahman, Ayesha Syeda, Carri Waller, and Keyvan Shabani.
 The students are part of the Technology Ambassador Program (TAP) which allows members to play with technologies and build projects for the community. 
