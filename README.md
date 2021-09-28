@@ -7,7 +7,7 @@ Technology Ambassoder Program at GGC allows students to build projects using dif
 ## Team:
 * **M**ohfez Rahman
 * **A**yesha Syeda
-* **C**arri Waller &#2728;
+* **C**arri Waller
 * **K**eyvan Shabani<br/>
 ![Team Photo](/media/mack.jpg)<br/>
 Professors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
@@ -19,13 +19,12 @@ Professors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
 2. Tap Expo, Oct 5th and 7th, GGC – To promote IT field and the TAP program to college students
 3. Class Workshops – on DATE 3 occasions, to promote IT field to non-IT college students
 ## Technology:
-1. Describe in 1-2 sentences the technology
+1. The technologies used in this project are HTML, CSS, QR Code, NFC, and APIs.
 2. [Inital Website](https://techambassadors-ggc.github.io/MACK/code/index.html)
-3. Photo of robot/technology (link to the one in the media/ folder)
 ## Project setup/Installation:
-Create a github account.<br/>
-Copy (fork) your own index.html page.<br/>
-Go to settings->options->github pages->branch=main->folder=root->save.<br/>
+1. Create a github account.<br/>
+2. Copy (fork) this project into your Github account and start editing the index.html file.<br/>
+3.Hosting: Go to settings->options->github pages->branch=main->folder=root->save.<br/>
 ## Usage:
 On the copied/forked index.html page, make the 5 edits in the code where the comments are.<br/>
 **Now you have your own personalized website! <br/>**
