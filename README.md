@@ -6,7 +6,7 @@ Technology Ambassoder Program at GGC allows students to build projects using dif
 [Link for TAP at GGC](https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/)
 ## Team:
 * **M**ohfez Rahman
-* **A**yesha Syeda
+* **A**yesha Syeda &#128153;
 * **C**arri Waller &#127872;
 * **K**eyvan Shabani<br/>
 ![Team Photo](/media/mack.jpg)<br/>
