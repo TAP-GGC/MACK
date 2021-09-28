@@ -15,9 +15,9 @@ Professors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
 1. [CCSC:SE Abstract](/documents/CCSC:SEabstract.md)
 2. CREATE Symposium Poster, DATE, GGC.
 ## Outreach Activites:
-1. Super Saturday Series (S3), DATE, GGC – middle and high school girls to promote IT and STEM career
+1. Super Saturday Series (S3), DATE:TBA, GGC – middle and high school girls to promote IT and STEM career
 2. Tap Expo, Oct 5th and 7th, GGC – To promote IT field and the TAP program to college students
-3. Class Workshops – on DATE 3 occasions, to promote IT field to non-IT college students
+3. Class Workshops – on (DATES:TBA) 3 occasions, to promote IT field to non-IT college students
 ## Technology:
 1. The technologies used in this project are HTML, CSS, QR Code, NFC, and APIs.
 2. [Inital Website](https://techambassadors-ggc.github.io/MACK/code/index.html)
