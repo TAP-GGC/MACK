@@ -10,3 +10,5 @@
 ## Difficult:
 [Embeds - no link yet](link)<br/>
 [API for random recipe generator](https://codepen.io/medda/pen/ZEEzXKj)
+[API for random dog and cat picture](https://codepen.io/JoryIanSmith/pen/dyPZrML)
+
