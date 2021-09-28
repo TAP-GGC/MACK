@@ -7,7 +7,7 @@ Technology Ambassoder Program at GGC allows students to build projects using dif
 ## Team:
 * **M**ohfez Rahman
 * **A**yesha Syeda
-* **C**arri Waller &#128512;
+* **C**arri Waller &#127872;
 * **K**eyvan Shabani<br/>
 ![Team Photo](/media/mack.jpg)<br/>
 Professors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
