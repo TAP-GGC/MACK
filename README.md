@@ -8,11 +8,11 @@ Technology Ambassoder Program at GGC allows students to build projects using dif
 * **M**ohfez Rahman :slightly_smiling_face:
 * **A**yesha Syeda &#128153;
 * **C**arri Waller &#127872;
-* **K**eyvan Shabani &#129497;<br/>
+* **K**eyvan Shabani &#129497;<br/><br/>
 ![Team Photo](/media/mack.jpg)<br/>
 Professors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
 ## Publications:
-1. CCSC abstract 
+1. [CCSC abstract](/documents/CCSC:SE Abstract.md)
 2. CREATE Symposium Poster, DATE, GGC.
 ## Outreach Activites:
 1. Super Saturday Series (S3), DATE, GGC – middle and high school girls to promote IT and STEM career
