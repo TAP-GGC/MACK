@@ -1,4 +1,4 @@
-## Title: MACK Pages: A Personalized About Me Webpage <br/>
+## Title: MACK Pages (A Personalized About Me Webpage) <br/>
 __Presenter(s): Ayesha, Keyvan, Mohfez, and Carri<br/>__
 Faculty Advisors: Rahaf Barakat, Cengiz Gunay <br/><br/>
 Abstract: Mack Pages is a personalized cover page website created by Georgia Gwinnett College (GGC) 
