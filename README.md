@@ -24,7 +24,7 @@ Professors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
 ## Project setup/Installation:
 1. Create a github account.<br/>
 2. Copy (fork) this project into your Github account and start editing the index.html file.<br/>
-3.Hosting: Go to settings->options->github pages->branch=main->folder=root->save.<br/>
+3. Hosting: Go to settings->options->github pages->branch=main->folder=root->save.<br/>
 ## Usage:
 On the copied/forked index.html page, make the 5 edits in the code where the comments are.<br/>
 **Now you have your own personalized website! <br/>**
