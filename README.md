@@ -31,4 +31,4 @@ On the copied/forked index.html page, make the 5 edits in the code where the com
 **Now you have your own personalized website! <br/>**
 [Student Example](http://cwaller.altervista.org/TAP/Student1.html)
 ### TAP Expo Creations
-[Ayesha](/TAP_Expo/ayesha.html)
+[Ayesha](/code/TAP_Expo/ayesha.html)
