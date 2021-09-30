@@ -21,7 +21,7 @@ Professors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
 ## Technology:
 1. The technologies used in this project are HTML, CSS, QR Code, NFC, and APIs.
 2. [Inital Website](https://techambassadors-ggc.github.io/MACK/code/index.html)
-![Inital Website Photo](/media/MACKpages.PNG)
+<img src="/media/MACKpages.PNG" alt="Inital Website Photo" style="width:580px; height:370px;"><br/><br/>
 ## Project setup/Installation:
 1. Create a github account.<br/>
 2. Copy (fork) this project into your Github account and start editing the index.html file.<br/>
