@@ -20,7 +20,7 @@ Professors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
 3. Class Workshops – on (DATES:TBA) 3 occasions, to promote IT field to non-IT college students
 ## Technology:
 1. The technologies used in this project are HTML, CSS, QR Code, NFC, and APIs.
-2. [Inital Website](https://techambassadors-ggc.github.io/MACK/code/index.html)
+2. [Inital Website](https://techambassadors-ggc.github.io/MACK/code/index.html)<br/>
 <img src="/media/MACKpages.PNG" alt="Inital Website Photo" style="width:580px; height:370px;"><br/><br/>
 ## Project setup/Installation:
 1. Create a github account.<br/>
