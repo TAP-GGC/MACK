@@ -9,7 +9,7 @@ Technology Ambassoder Program at GGC allows students to build projects using dif
 * **A**yesha Syeda &#128153;
 * **C**arri Waller &#127872;
 * **K**eyvan Shabani &#129497;<br/><br/>
-![Team Photo]<img src="/media/mack.jpg" width="500" height="300"><br/>
+![Team Photo](/media/mack.jpg" width="600" height="300)<br/>
 Professors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
 ## Publications:
 1. [CCSC:SE Abstract](/documents/CCSC:SEabstract.md)
