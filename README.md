@@ -13,7 +13,7 @@ Technology Ambassoder Program at GGC allows students to build projects using dif
 Professors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
 ## Publications:
 1. [CCSC:SE Abstract](/documents/CCSC:SEabstract.md)
-2. CREATE Symposium Poster, DATE, GGC.
+2. CREATE Symposium Poster, Nov 11th (in-person) and 12th (online) from 2-3:15pm, GGC.
 ## Outreach Activites:
 1. Super Saturday Series (S3), October 12th(Boys) & October 14th(Girls) from 6:30 to 7:30pm, GGC – middle and high school girls to promote IT and STEM careers
 2. Tap Expo, Oct 5th (in-person) and 7th (online), GGC – To promote the IT field and TAP program to college students
