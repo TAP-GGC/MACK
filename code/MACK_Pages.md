@@ -10,3 +10,4 @@
 [Cool Sam's Page](https://techambassadors-ggc.github.io/MACK/code/TAP_Expo/coolsam.html)<br/>
 [Katiera's Page](https://techambassadors-ggc.github.io/MACK/code/TAP_Expo/katiera.html)<br/>
 [Jaeda's Page](https://techambassadors-ggc.github.io/MACK/code/TAP_Expo/Jaeda.html)<br/>
+[Cindy's Page](https://techambassadors-ggc.github.io/MACK/code/TAP_Expo/cindy.html)<br/>
