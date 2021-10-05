@@ -8,3 +8,4 @@
 [Wei's Page](https://techambassadors-ggc.github.io/MACK/code/TAP_Expo/wj.html)<br/>
 [Michelle's Page](https://techambassadors-ggc.github.io/MACK/code/TAP_Expo/Michelle.html)<br/>
 [Cool Sam's Page](https://techambassadors-ggc.github.io/MACK/code/TAP_Expo/coolsam.html)<br/>
+[Katiera's Page](https://techambassadors-ggc.github.io/MACK/code/TAP_Expo/katiera.html)<br/>
