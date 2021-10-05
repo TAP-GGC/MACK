@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Example</title> <!---Step 1: Create a title--->
+	<title>Example</title> <!---Step 1: Create a title or name for your page--->
 	
     	<!--Online CSS files for styling the page-->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
@@ -10,7 +10,7 @@
 	<style>
 		html, body{font-size:16px;color: #ffffff;background-color: black; /*Optional Step: Change the top tab color*/}
 
-		/*Step 2: Change the color of these sections*/
+		/*Step 2: Change the color of these sections ~ The text is white so darker colors are better*/
 		.section-1 {background: #0a5975;}
 		.section-2 {background-color: #08465e;}
 		.section-3 {background-color: #18444e;}
@@ -30,18 +30,18 @@
     	</style>
 </head>
 	<body>
-		<!-- Navbar. KEEP SCROLLING :) -->
+		<!-- Navbar ~ KEEP SCROLLING :) -->
 		<nav class="nav container void-background"><div class="nav-left">
-				<a href="http://instagram.com/" class="nav-item"><span class="icon"><i class="fa fa-instagram"></i></span></a>
-				<a href="http://facebook.com/" class="nav-item"><span class="icon"><i class="fa fa-facebook"></i></span></a>
-				<a href="https://twitter.com/" class="nav-item"><span class="icon"><i class="fa fa-twitter"></i></span></a>	
-			</div><div class="nav-right nav-menu"><a class="nav-item" href="https://github.com/TechAmbassadors-GGC/MACK/">Created by: MACK</a></div></nav>
+			<a href="http://instagram.com/" class="nav-item"><span class="icon"><i class="fa fa-instagram"></i></span></a>
+			<a href="http://facebook.com/" class="nav-item"><span class="icon"><i class="fa fa-facebook"></i></span></a>
+			<a href="https://twitter.com/" class="nav-item"><span class="icon"><i class="fa fa-twitter"></i></span></a>	
+		</div><div class="nav-right nav-menu"><a class="nav-item" href="https://github.com/TechAmbassadors-GGC/MACK/">Created by: MACK</a></div></nav>
 				
-		<!-- About Me -->
+		<!-- About Me ~ Next step is in this section -->
 		<section id="about" class="section section-1">
         	<h3 class="title is-3">About Me</h3><center>
-                <!---Step 3: Add an image by src--->
-				<img class="avatar" src="https://thumbs.dreamstime.com/b/vector-icon-user-avatar-web-site-mobile-app-man-face-flat-style-social-network-profile-45837377.jpg"><br/>
+                <!---Step 3: Copy and add an image address by the word src in the quotations---><img class="avatar" 
+			    	src="https://thumbs.dreamstime.com/b/vector-icon-user-avatar-web-site-mobile-app-man-face-flat-style-social-network-profile-45837377.jpg"><br/>
 			</center><p class="intro">
 				Step 4: Add information about you here! You can delete this and add anything you want about you. (i.e. hobbies, favorite color)
 			</p>
@@ -49,17 +49,14 @@
         
       		<!-- Quote -->
 		<section id="quotes" class="section section-2">
-            	<h3 class="title is-3">Quote of the Day</h3>
-  				<div class="quote-box"><p id="quote">"Quote goes here..."</p><small id="author">- Author</small></div>
-		</section>	
+            	<h3 class="title is-3">Quote of the Day</h3><div class="quote-box"><p id="quote">"Quote goes here..."</p><small id="author">- Author</small></div></section>	
 		
 		<!-- Content -->
-		<section  id="contents" class="section section-3">
-		<h3 class="title is-3">Content</h3>
+		<section  id="contents" class="section section-3"><h3 class="title is-3">Content</h3>
                 	<p class="intro">
-					Step 5: Add your content here. Whatever you want, just have fun! :)<br/>
+				Step 5: Add your content here. Whatever you want, just have fun! :)<br/>
 			</p>
-		<!--- ALL DONE --->
+		<!--- ALL DONE - YAY YOU DID IT <3--->
 		</section>
 		
 		<!-- Scripts (Javascript for Quote Generator in Section 2) -->
@@ -68,12 +65,7 @@
           	const author = document.querySelector("#author");
           	window.onload = getQuote;
            	function getQuote() {
-            		fetch("https://quotable.io/random")
-              		.then(res => res.json())
-              		.then(data => {
-              		quote.innerHTML = `"${data.content}"`;
-              		author.innerHTML = data.author;
-            		})
+            		fetch("https://quotable.io/random").then(res => res.json()).then(data => {quote.innerHTML = `"${data.content}"`;author.innerHTML = data.author;})
           	}
     		</script>
 	</body>	
