@@ -8,7 +8,7 @@
 [Links](https://www.w3schools.com/html/html_links.asp)<br/>
 [Lists](https://www.w3schools.com/html/html_lists.asp)<br/>
 ## Difficult:
-[Embeds - no link yet](link)<br/>
+[Embeds](https://www.w3schools.com/TAGS/tag_embed.asp)<br/>
 [API for random recipe generator](https://codepen.io/medda/pen/ZEEzXKj)<br/>
 [API for random dog and cat picture](https://codepen.io/JoryIanSmith/pen/dyPZrML)
 
