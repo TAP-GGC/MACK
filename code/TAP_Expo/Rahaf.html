@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Dr.B</title> <!---Step 1: Create a title or name for your page--->
+	
+    	<!--Online CSS files for styling the page-->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.3.1/css/bulma.min.css">
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+		html, body{font-size:16px;color: #ffffff;background-color: black; /*Optional Step: Change the top tab color*/}
+
+		/*Step 2: Change the color of these sections ~ The text is white so darker colors are better*/
+		.section-1 {background: #009933;}
+		.section-2 {background-color: #08465e;}
+		.section-3 {background-color: #18444e;}
+
+		/*Don't Touch Please Scroll to About - Line 43*/
+		a {color: blue;}
+		section{padding-top: 3rem;padding-bottom: 3rem;}
+		a.nav-item {color: #dfdfdf; text-align: left;}
+		a.nav-item:hover {color: #fff;}
+		.avatar{height:200px;border-radius: 50%;}
+		.intro-description{padding-top: 1rem;}
+		.box {background-color: transparent;border: 2px solid rgba(7, 59, 79, 0.5);}
+		.title {color: #fff;text-align: center;margin-bottom: 2rem;}
+		.intro {text-align: center;width: 80%;margin: 0 auto;}
+		.void-background {background-color: transparent; }
+		.quote-box {text-align: center;}
+    	</style>
+</head>
+	<body>
+		<!-- Navbar ~ KEEP SCROLLING :) -->
+		<nav class="nav container void-background"><div class="nav-left">
+			<a href="http://linkedin.com/in/dr-rahaf-barakat-a8286594" class="nav-item"><span class="icon"><i class="fa fa-linkedin"></i></span></a>
+<!-- 			<a href="http://facebook.com/" class="nav-item"><span class="icon"><i class="fa fa-facebook"></i></span></a>
+			<a href="https://twitter.com/" class="nav-item"><span class="icon"><i class="fa fa-twitter"></i></span></a>	 -->
+		</div><div class="nav-right nav-menu"><a class="nav-item" href="https://github.com/TechAmbassadors-GGC/MACK/">Created by: MACK</a></div></nav>
+				
+		<!-- About Me ~ Next step is in this section -->
+		<section id="about" class="section section-1">
+        	<h3 class="title is-3">About Me</h3><center>
+                <!---Step 3: Copy and add an image address on the next line in the quotations---><img class="avatar" 
+			    	src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ggc.edu%2Fabout-ggc%2Fdirectory%2Frahaf-barakat&psig=AOvVaw0tqahecgv_MnJoIBUVem0U&ust=1633544358513000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCMCyl4zxs_MCFQAAAAAdAAAAABAD"><br/>
+			</center><p class="intro">
+				Professor of IT at GGC. Passionate teacher. Mother of 3. I love traveling, surfing, spending time with family. I am a very good cook.
+			</p>
+		</section>
+        
+      		<!-- Quote -->
+		<section id="quotes" class="section section-2">
+            	<h3 class="title is-3">Quote of the Day</h3><div class="quote-box"><p id="quote">"Quote goes here..."</p><small id="author">- Author</small></div></section>	
+		
+		<!-- Content -->
+		<section  id="contents" class="section section-3"><h3 class="title is-3">Content</h3>
+                	<p class="intro">
+				Step 5: Add your content here. Whatever you want, just have fun! :)<br/>
+			</p>
+		<!--- ALL DONE - YAY YOU DID IT <3--->
+		</section>
+		
+		<!-- Scripts (Javascript for Quote Generator in Section 2) -->
+        	<script>
+          	const quote = document.querySelector("#quote");
+          	const author = document.querySelector("#author");
+          	window.onload = getQuote;
+           	function getQuote() {
+            		fetch("https://quotable.io/random").then(res => res.json()).then(data => {quote.innerHTML = `"${data.content}"`;author.innerHTML = data.author;})
+          	}
+    		</script>
+	</body>	
+</html>
