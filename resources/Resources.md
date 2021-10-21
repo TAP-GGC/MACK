@@ -1,14 +1,13 @@
 # Links for Content Ideas
-[Color Picker for Hex Codes](https://www.w3schools.com/colors/colors_picker.asp)<br/>
+<a href="https://www.w3schools.com/colors/colors_picker.asp" target="_blank">Color Picker for Hex Codes</a><br/>
 ## Easy:<br/>
-[Paragraphs](https://www.w3schools.com/html/html_paragraphs.asp)<br/>
-[Emojis](https://www.w3schools.com/html/html_emojis.asp)
+<a href="https://www.w3schools.com/html/html_paragraphs.asp" target="_blank">Paragraphs</a><br/>
+<a href="https://www.w3schools.com/html/html_emojis.asp" target="_blank">Emojis</a><br/>
 ## Medium:<br/>
-[Tables](https://www.w3schools.com/tags/tag_table.asp)<br/>
-[Links](https://www.w3schools.com/html/html_links.asp)<br/>
-[Lists](https://www.w3schools.com/html/html_lists.asp)<br/>
+<a href="https://www.w3schools.com/tags/tag_table.asp" target="_blank">Tables</a><br/>
+<a href="https://www.w3schools.com/html/html_links.asp" target="_blank">Links</a><br/>
+<a href="https://www.w3schools.com/html/html_lists.asp" target="_blank">Lists</a><br/>
 ## Difficult:
-[Embeds](https://www.w3schools.com/TAGS/tag_embed.asp)<br/>
-[API for random recipe generator](https://codepen.io/medda/pen/ZEEzXKj)<br/>
-[API for random dog and cat picture](https://codepen.io/JoryIanSmith/pen/dyPZrML)
-
+<a href="https://www.w3schools.com/TAGS/tag_embed.asp" target="_blank">Embeds</a><br/>
+<a href="https://codepen.io/medda/pen/ZEEzXKj" target="_blank">API for random recipes generator</a><br/>
+<a href="https://codepen.io/JoryIanSmith/pen/dyPZrML" target="_blank">API for random dog and cat pictures</a><br/>
