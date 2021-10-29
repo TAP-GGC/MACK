@@ -1,5 +1,5 @@
 # Links for Content Ideas
-<a href="https://www.w3schools.com/colors/colors_picker.asp" target="_blank">Color Picker for Hex Codes</a><br/>
+<a href="https://www.w3schools.com/colors/colors_picker.asp" target="_blank" rel="noopener noreferrer">Color Picker for Hex Codes</a><br/>
 ## Easy:<br/>
 <a href="https://www.w3schools.com/html/html_paragraphs.asp" target="_blank">Paragraphs</a><br/>
 <a href="https://www.w3schools.com/html/html_emojis.asp" target="_blank">Emojis</a><br/>
