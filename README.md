@@ -17,7 +17,7 @@ Professors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
 ## Outreach Activites:
 1. Super Saturday Series (S3), October 12th(Boys) & October 14th(Girls) from 6:30 to 7:30pm, GGC – for middle and high schoolers to promote IT and STEM careers
 2. Tap Expo, Oct 5th (in-person) and 7th (online), GGC – To promote the IT field and TAP program to college students
-3. [Class Workshops](/documents/Workshop Presentation.md) – on Oct 27th, Oct 28th, Nov 2nd, and Nov 3rd, to promote the IT field to non-IT college students
+3. [Class Workshops](/documents/Workshop_Presentation.md) – on Oct 27th, Oct 28th, Nov 2nd, and Nov 3rd, to promote the IT field to non-IT college students
 ## Technology:
 1. The technologies used in this project are HTML, CSS, QR Code, NFC, and APIs.
 2. [Inital Website](https://techambassadors-ggc.github.io/MACK/code/index.html)<br/>
