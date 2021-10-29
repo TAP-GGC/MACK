@@ -17,14 +17,14 @@ Professors: Dr. Cengiz Gunay and Dr. Rahaf Barakat
 ## Outreach Activites:
 1. Super Saturday Series (S3), October 12th(Boys) & October 14th(Girls) from 6:30 to 7:30pm, GGC – for middle and high schoolers to promote IT and STEM careers
 2. [TAP Expo](/code/MACK_Pages.md), Oct 5th (in-person) and 7th (online), GGC – To promote the IT field and TAP program to college students
-3. [Class Workshops](https://docs.google.com/presentation/d/1ai09GMuAigZhbtjtVecfB_ssMGXyszyH-kiAxwY8vn4/edit#slide=id.p) – on Oct 27th, Oct 28th, Nov 2nd, and Nov 3rd, to promote the IT field to non-IT college students
+3. [Class Workshops](https://docs.google.com/presentation/d/1ai09GMuAigZhbtjtVecfB_ssMGXyszyH-kiAxwY8vn4/edit#slide=id.p), Oct 27th, Oct 28th, Nov 2nd, and Nov 3rd, - To promote the IT field to non-IT college students
 ## Technology:
 1. The technologies used in this project are HTML, CSS, QR Code, NFC, and APIs.
 2. [Inital Website](https://techambassadors-ggc.github.io/MACK/code/index.html)<br/>
 <img src="/media/MACKpages.PNG" alt="Inital Website Photo" style="width:580px; height:370px;"><br/><br/>
 ## Project setup/Installation:
-1. Create a github account.<br/>
-2. Copy (fork) this project into your Github account and start editing the index.html file.<br/>
+1. Create a Github account.<br/>
+2. Copy (fork) this project into your Github account and start editing'index.html' under the 'code' folder.<br/>
 3. Hosting: Go to settings->options->github pages->branch=main->folder=root->save.<br/>
 ## Usage:
 On the copied/forked index.html page, make the 5 edits in the code where the comments are.<br/>
