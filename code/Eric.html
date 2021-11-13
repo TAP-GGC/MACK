@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>EricR</title> <!---Step 1: Create a title or name for your page--->
+	
+    	<!--Online CSS files for styling the page-->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.3.1/css/bulma.min.css">
+    	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+		html, body{font-size:16px;color: #ffffff;background-color: blue; /*Optional Step: Change the top tab color*/}
+
+		/*Step 2: Change the color of these sections ~ The text is white so darker colors are better*/
+		.section-1 {background-color: #0044cc;}
+		.section-2 {background-color: #009933;}
+		.section-3 {background-color: #330099;}
+
+		/*Don't Touch Please Scroll to About - Line 43*/
+		a {color: blue;}
+		section{padding-top: 3rem;padding-bottom: 3rem;}
+		a.nav-item {color: #dfdfdf; text-align: left;}
+		a.nav-item:hover {color: #fff;}
+		.avatar{height:200px;border-radius: 50%;}
+		.intro-description{padding-top: 1rem;}
+		.box {background-color: transparent;border: 2px solid rgba(7, 59, 79, 0.5);}
+		.title {color: #fff;text-align: center;margin-bottom: 2rem;}
+		.intro {text-align: center;width: 80%;margin: 0 auto;}
+		.void-background {background-color: transparent; }
+		.quote-box {text-align: center;}
+    	</style>
+</head>
+	<body>
+		<!-- Navbar ~ KEEP SCROLLING :) -->
+		<nav class="nav container void-background"><div class="nav-left">
+			<a href="http://instagram.com/" class="nav-item"><span class="icon"><i class="fa fa-instagram"></i></span></a>
+			<a href="http://facebook.com/" class="nav-item"><span class="icon"><i class="fa fa-facebook"></i></span></a>
+			<a href="https://twitter.com/" class="nav-item"><span class="icon"><i class="fa fa-twitter"></i></span></a>	
+		</div><div class="nav-right nav-menu"><a class="nav-item" href="https://github.com/TechAmbassadors-GGC/MACK/">Created by: MACK</a></div></nav>
+				
+		<!-- About Me ~ Next step is in this section -->
+		<section id="about" class="section section-1">
+        	<h3 class="title is-3">About Me</h3><center>
+                <!---Step 3: Copy and add an image address on the next line in the quotations---><img class="avatar" 
+			    	src="https://cdn.travelpulse.com/images/e5a9edf4-a957-df11-b491-006073e71405/404747c6-03c2-4924-bc0a-e62e7603089f/600x400.jpg"><br/>
+			</center><p class="intro">
+				I'm a gamer like sea of thieves I will love to go to college want to live in italy or the UK
+			</p>
+		</section>
+        
+      		<!-- Quote -->
+		<section id="quotes" class="section section-2">
+            	<h3 class="title is-3">Quote of the Day</h3><div class="quote-box"><p id="quote">"Quote goes here..."</p><small id="author">- Author</small></div></section>	
+		
+		<!-- Content -->
+		<section  id="contents" class="section section-3"><h3 class="title is-3">Content</h3>
+                	<p class="intro">
+			<img src="https://travel.home.sndimg.com/content/dam/images/travel/fullset/2015/05/28/big-ben-london-england.jpg.rend.hgtvcom.581.436.suffix/1491582155388.jpeg"><br/>	
+			</p>
+		</section>
+		
+		<!-- Scripts (Javascript for Quote Generator in Section 2) -->
+        	<script>
+          	const quote = document.querySelector("#quote");
+          	const author = document.querySelector("#author");
+          	window.onload = getQuote;
+           	function getQuote() {
+            		fetch("https://quotable.io/random").then(res => res.json()).then(data => {quote.innerHTML = `"${data.content}"`;author.innerHTML = data.author;})
+          	}
+    		</script>
+		<!--- ALL DONE - YAY YOU DID IT <3--->
+	</body>	
+</html>
