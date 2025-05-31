@@ -45,8 +45,8 @@ The technologies used in this project are HTML, CSS, QR Code, NFC, and APIs.
 <img src="/media/MACKpages.PNG" alt="Inital Website Photo" style="width:580px; height:370px;"><br/><br/>
 ## Project setup/Installation
 1. Create a Github account.<br/>
-2. Copy (fork) this project into your Github account and start editing'index.html' under the 'code' folder.<br/>
-3. Hosting: Go to settings->options->github pages->branch=main->folder=root->save.<br/>
+2. Download the "index.html" then make a new repo with just only the "index.html" (delete ReadMe.md).<br/>
+3. Hosting: Go to settings->options->pages->branch=main->folder=root->save.<br/>
 ## Usage
 On the copied/forked index.html page, make the 5 edits in the code where the comments are.<br/>
 **Now you have your own personalized website! <br/>**
