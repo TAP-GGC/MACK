@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="MACK logo" src="media/removebg.png" height="200" />
+  <img alt="MACK logo" src="media/remove.png" height="200" />
   <h1 align="center">MACK - Your Story, One Scan Away.
 </h1>
 </p>
@@ -14,7 +14,7 @@ Created by a team of passionate undergraduate students, MACK stands for Mohfez, 
 * Required Materials: NFC Chip, Mobile App for NFC Chip
 ## What is TAP?
 Technology Ambassoder Program at GGC allows students to build projects using different technologies that have a target to teach others about techonology!<br/>
-[Link for TAP at GGC](https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/)
+[GGC TAP](https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/)
 ## 👥 Team
 <img src="/media/mack.jpg" alt="Team Photo" style="width:456px; height:246px;"><br/><br/>
 * **M**ohfez Rahman :slightly_smiling_face:
