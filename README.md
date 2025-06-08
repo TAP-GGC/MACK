@@ -1,6 +1,6 @@
 <p align="center">
-  <img alt="MACK logo" src="media/remove.png" height="200" />
-  <h1 align="center">MACK - Your Story, One Scan Away.
+  <img alt="MACK logo" src="media/removebg.png" height="200" />
+  <h1 align="center">MACK
 </h1>
 </p>
 
@@ -12,6 +12,7 @@ Created by a team of passionate undergraduate students, MACK stands for Mohfez, 
 * Target Audience: 6th Grade – College Students
 * Duration of Workshop: 30–60 minutes
 * Required Materials: NFC Chip, Mobile App for NFC Chip
+* The primary goal of this project is educating others about developing their own digital business card and using NFC technology
 ## What is TAP?
 Technology Ambassoder Program at GGC allows students to build projects using different technologies that have a target to teach others about techonology!<br/>
 [GGC TAP](https://www.ggc.edu/academics/schools/school-of-science-and-technology/research-internships-service-learning/technology-ambassador-program/)
