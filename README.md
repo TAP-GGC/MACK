@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="MACK logo" src="media/removebg.png" height="400" />
-  <h1 align="center">MACK
+  <h1 align="center">MACK: Design your own website
 </h1>
 </p>
 
