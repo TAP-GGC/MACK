@@ -25,6 +25,10 @@ Technology Ambassoder Program at GGC allows students to build projects using dif
 ## 🎓 Advisors 
 * Dr. Cengiz Gunay
 * Dr. Rahaf Barakat
+## 📃 Description
+MACK is a student-led initiative that introduces participants to emerging technologies through the creation of personalized digital business cards. Using NFC chips, students can easily share key information such as academic background, personal interests, work or project experiences, future goals, and preferred social media platforms. Designed for 6th grade through college students, this project empowers users to enhance their digital presence and networking skills in a hands-on, creative way. By combining accessibility with innovation, MACK provides a modern solution for building and sharing digital identities.
+
+
 ## 📝 Publications:
 1. [CCSC:SE Abstract](/documents/CCSC:SE_Abstract.md)
 2. CREATE Symposium Poster, Nov 11th (in-person) and 12th (online) from 2-3:15pm, GGC.
