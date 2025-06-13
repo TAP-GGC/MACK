@@ -46,7 +46,8 @@ The technologies used in this project are HTML, CSS, QR Code, NFC, and APIs.
   2.  ### NFC Chips
   NFC (Near Field Communication) chips are compact microchips that allow devices to exchange data wirelessly over short distances. Commonly used in contactless payments and digital sharing, they enable quick and seamless communication between compatible devices.
 
-[Inital Website](https://techambassadors-ggc.github.io/MACK/code/index.html)<br/>
+### Initial Website
+
 <img src="/media/MACKpages.PNG" alt="Inital Website Photo" style="width:580px; height:370px;"><br/><br/>
 ## Project setup/Installation
 1. Create a Github account.<br/>
