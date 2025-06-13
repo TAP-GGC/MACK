@@ -47,13 +47,24 @@ The technologies used in this project are HTML, CSS, QR Code, NFC, and APIs.
   NFC (Near Field Communication) chips are compact microchips that allow devices to exchange data wirelessly over short distances. Commonly used in contactless payments and digital sharing, they enable quick and seamless communication between compatible devices.
 
 ### Initial Website
-
 <img src="/media/MACKpages.PNG" alt="Inital Website Photo" style="width:580px; height:370px;"><br/><br/>
+
 ## Project setup/Installation
-1. Create a Github account.<br/>
-2. [Copy GitHub Pages](/documents/GitHub pages set up.pdf)
-3. Hosting: Go to settings->options->pages->branch=main->folder=root->save.<br/>
+### 1. Create a Github account
+
+### 2. GitHub Page set up
+[GitHub Pages](documents/GitHub%20pages%20set%20up.pdf).
+### 3. Hosting: Go to settings->options->pages->branch=main->folder=root->save
+
+### 4. NFC chips reader set up
+[NFC Chip set up](documents/NFC%20Reader%20Instructions.pdf.pdf).
+
 ## Usage
 On the copied/forked index.html page, make the 5 edits in the code where the comments are.<br/>
+
+## MACK Demo video
+[Demo instruction video](https://youtu.be/lTfTqDQPnTg)
+## MACK Workshop video
+[Workshop video](https://youtu.be/L1P3LEtj40Q)
 **Now you have your own personalized website! <br/>**
 [Student Example](http://cwaller.altervista.org/TAP/Student1.html)
